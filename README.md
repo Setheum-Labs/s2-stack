@@ -1,2 +1,2 @@
-# s2-stack
+# simple-storage-stack (Setheum S2 Stack)
 Setheum Simple Storage Stack
